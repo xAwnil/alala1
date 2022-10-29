@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///C:/NebulaRoot2/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Test (Minecraft 1.17.1)",
+    "description": "Test Running Minecraft 1.17.1 (Forge v37.1.1)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "37.1.1"
+  },
+  "untrackedFiles": []
+}
